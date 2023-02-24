@@ -75,3 +75,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+Detail Blog 
+[SCN](https://blogs.sap.com/2023/02/24/typescript-templating-using-nestjs-framework-in-sap-btp/)
